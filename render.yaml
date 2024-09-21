@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: battlecats-wiki-by-game8
+    name: google
     env: python
     region: Oregon
     plan: free
